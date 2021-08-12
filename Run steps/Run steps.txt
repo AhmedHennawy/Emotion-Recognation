@@ -1,0 +1,11 @@
+1- Download and install python
+
+2- Download and install pycharm
+
+3- Prepare the interpreter and install the needed packages
+	Keras
+	time
+	cv2
+	numpy
+
+4- Run the file named "opencv. Py"
