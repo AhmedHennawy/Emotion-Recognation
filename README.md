@@ -1,2 +1,2 @@
-# Real-time Emotion Recognation
+# Real-time Emotion Recognition
 real-time application Recognize the human state (happy, sad, angry. etc.) from video.
